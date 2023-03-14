@@ -1,0 +1,7 @@
+@inproceedings{REPO-069,
+    author = "Gao, Xifeng and Wu, Kui and Pan, Zherong",
+    booktitle = "ACM SIGGRAPH 2022 Conference Proceedings",
+    numpages = "9",
+    title = "{Low-Poly Mesh Generation for Building Models}",
+    year = "2022"
+}
